@@ -1,0 +1,4 @@
+interface:
+  display_name: "SE RØDT · Double Diamond"
+  short_description: "Research, problem, designvalg og evaluering til SE RØDT"
+  default_prompt: "Brug $se-rodt-double-diamond til at forbinde vores research, problemformulering, designvalg og test."

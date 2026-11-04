@@ -1,0 +1,4 @@
+interface:
+  display_name: "SE RØDT · Figma og design"
+  short_description: "Følg Figma, sort baggrund og tilgængelig retrobiograf"
+  default_prompt: "Brug $se-rodt-design til at følge vores Figma-design med sort baggrund og tydelig kontrast."

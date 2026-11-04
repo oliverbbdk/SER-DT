@@ -1,0 +1,88 @@
+SE RØDT — hjemmesideprototype
+
+START LOKALT
+Kør fra projektmappen: python -m http.server 8765 --directory dist
+Åbn derefter http://localhost:8765
+Der er ingen pakkedependenser eller buildproces.
+
+INDHOLD
+Seks HTML-sider: forside, program, filterforklaring, praktisk info, FAQ og billetter.
+Programsøgning, filtrering efter gyseskala og film/aktiviteter, dagvalg,
+tastaturbetjent illustrationsslider og billetdemo med antal og samlet pris.
+Der er ingen Min aften-funktion eller gemte film.
+Danske sidetitler, beskrivelser, canonical, Open Graph, sitemap og robots.txt.
+WebSite/WebPage-JSON-LD og FAQPage-data, der svarer til den synlige FAQ.
+
+STATUS OG MANGLENDE INPUT
+Visuelt er siden en foreløbig fortolkning af gruppens Figma-miniaturer.
+De fulde 1.png–6.png eller et Figma-link mangler stadig.
+Gruppens konkrete Pinterest/Pixabay-billeder og DaFont-fontfiler mangler.
+Forsiden viser forhåndsvisninger fra de officielle YouTube-trailers.
+Ni film har verificerede kildelinks og trailerknapper i programmet.
+Der er ikke indsat en trailer til Nattevagten, fordi en passende officiel kilde ikke er verificeret.
+De konkrete kilder og udgivere står i FILMKILDER.json og sidens kildeoversigt.
+Webversionen indlæser udbyderens afspiller efter klik. Forhåndsvisninger hentes hos YouTube.
+Der gemmes ingen kopier af videoerne eller filmplakater. Direkte trailerlinks er altid tilgængelige.
+Materialet er ikke angivet som copyright-frit. Mulig alders-/regionsbegrænsning styres af YouTube.
+Øje og filterillustration er tegnet til prototypen. Creepster og Bebas Neue har vedlagte OFL-licenser.
+Filmratings er foreløbige redaktionelle forslag og skal godkendes af gruppen.
+Filterdemoen er en illustration af princippet, ikke valideret daltonisering.
+Eventår, venueadresse, VIP-dage og ledsagerrabattens regler er uafklarede.
+Der sælges ikke billetter. Ingen personoplysninger eller betaling indsamles.
+Event-JSON-LD er udeladt, fordi eventår og præcis adresse ikke er fastlagt.
+Det private Sites-link er til review; ekstern SEO/GEO-synlighed kræver offentlig adgang.
+Sidens schema og metadata lover ikke placeringer, rich results eller AI-citater.
+
+DOUBLE DIAMOND
+Discover/Define: Leveret koncept og brugerens designvalg er anvendt som arbejdsgrundlag.
+Der er ikke gennemført interviews, persona-research eller brugertests i dette arbejde.
+Develop: Fungerende responsiv prototype med seks sider og centrale interaktioner.
+Deliver: JavaScript-syntaks, lokale links, billeder, unikke sidetitler og beskrivelser,
+JSON-LD, FAQ-overensstemmelse, SVG og sitemap er kontrolleret.
+Browserkontrol: alle seks sider uden vandret overflow ved 320 CSS px;
+programskift, 2 lørdagsbilletter = 698 kr., demodialog, FAQ, slider med piletast,
+mobilmenu med Escape/fokus og desktopforside ved 1440 px er gennemgået.
+Ingen browserkonsolfejl blev registreret i den kontrollerede session.
+Baggrunden er efter brugerens ønske ensfarvet sort uden røde striber.
+Dette er teknisk kontrol, ikke en gennemført brugertest med målgruppen.
+Opdatering med filmtrailers: Ni kilder er kontrolleret via YouTubes oEmbed-endpoint.
+De tre forsidespillere indlæser de officielle filmvisninger; The Shining-afspilning
+blev observeret frem til 20 sekunder med en varighed på 55 sekunder.
+Trailerpopup, Escape, fokusretur og fjernelse af iframe ved lukning er testet.
+Forside og popup er gentestet ved 320 CSS px uden vandret overflow.
+Lørdagens syv trailerknapper samt fredagens to matcher kildelisten.
+En efterfølgende alders-/regionsbegrænsning hos udbyderen kan ikke udelukkes.
+Professionel gennemgang: Bebas Neue til overskrifter, roligere typografi,
+ensartede komponenter, mere luft og tydeligere hierarki på alle seks sider.
+Min aften og gemte film er udeladt efter brugerens præcisering.
+Programsøgning, nulstilling, tomt søgeresultat, gyseskala og Kun film er testet.
+Kontrol: Shining giver ét resultat fredag, gys 4 giver to fredag og ét lørdag,
+og Gæsterne findes korrekt i lørdagens lille sal. Mobil ved 320 CSS px er
+kontrolleret på alle seks sider uden vandret overflow.
+Den samlede HTML-fil er strukturelt kontrolleret og har bestået JS-syntakskontrol.
+Direkte file://-åbning kan ikke testes i Codex-browseren på grund af dens URL-politik.
+
+RETTELSE 4. NOVEMBER 2026
+Brugeren oplevede sorte trailerfelter. Fejlen blev ikke reproduceret i lokal browserkontrol.
+Forsiden viser nu billeder og links i stedet for at vente på tre indlejrede afspillere.
+Der indlæses kun en afspiller efter klik, med eksplicit referrer og origin.
+YouTube-fejl, manglende API og tidsgrænser viser en forklaring, en forhåndsvisning
+og det fortsat tilgængelige YouTube-link. Den samlede HTML-fil bruger direkte links.
+Alle ni officielle kilder og forhåndsvisnings-URL'er er kontrolleret via oEmbed igen.
+Lokal browserkontrol: The Shining afspiller, alle tre forsidebilleder er indlæst,
+programlink åbner korrekt film, Escape lukker og returnerer fokus, afspiller fjernes.
+Dialogen er gentestet ved 320 CSS px; dialogens scrollbredde matcher klientbredden.
+Målrettet test med simuleret udbyder kontrollerer fejl 153, API-fejl, indlæsnings-
+og afspilningstimeout, lukning under indlæsning og direkte links i den samlede HTML-fil.
+Adgang til den udgivne side viser login i denne browsersession; produktionsafspilning
+er derfor ikke UI-verificeret. Siden er fortsat ejerprivat efter kontrol af adgangspolitikken.
+SEO-GEO-kontrol.html forklarer kodekontrol, schema-validering og senere effektmåling.
+SEO-metadata og JSON-LD følger nu også med den samlede HTML-fil og dens seks visninger.
+
+
+KILDER
+Gruppens SE_RODT_eventide.pdf, moodboard og Figma-filoversigt.
+Gruppens angivne inspirationskilder: https://dk.pinterest.com/ og https://pixabay.com/da/
+Typografisk inspiration: https://www.dafont.com/theme.php?cat=803
+Anvendt font: https://github.com/google/fonts/tree/main/ofl/creepster
+SEO/AI: https://developers.google.com/search/docs/appearance/ai-features

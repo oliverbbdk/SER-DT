@@ -1,0 +1,4 @@
+interface:
+  display_name: "SE RØDT · Frontend"
+  short_description: "Byg program, filterdemo, FAQ og billetvalg til SE RØDT"
+  default_prompt: "Brug $se-rodt-frontend til at implementere SE RØDT i vores eksisterende projekt."

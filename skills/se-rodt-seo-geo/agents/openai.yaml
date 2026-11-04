@@ -1,0 +1,4 @@
+interface:
+  display_name: "SE RØDT · SEO og GEO"
+  short_description: "Gør festivalens indhold klart for søgemaskiner og AI"
+  default_prompt: "Brug $se-rodt-seo-geo til at forbedre hjemmesidens metadata, fakta, FAQ og søgevenlige struktur."

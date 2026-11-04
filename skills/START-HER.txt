@@ -1,0 +1,43 @@
+SE RØDT — fem AI-skills til jeres hjemmeside
+
+Pakken er lavet til jeres eventkoncept, valgte Figma-design, moodboard og Double Diamond.
+Det vedlagte Figma-billede er kun en filoversigt med miniaturevisninger.
+De fulde billeder 1.png–6.png eller et tilgængeligt Figma-link skal følge med,
+før AI'en kan gengive designet præcist.
+Hjemmesiden er ikke bygget som del af denne leverance.
+
+SKILLS
+
+1. se-rodt-double-diamond: Discover, Define, Develop og Deliver samt opgavegrundlag.
+2. se-rodt-design: Følg gruppens Figma-design med moodboardet som baggrund.
+3. se-rodt-frontend: Responsiv hjemmeside, program, filterdemo, FAQ og billetvalg.
+4. se-rodt-seo-geo: Metadata, synlige fakta, søgevenligt indhold og strukturerede data.
+5. se-rodt-kvalitet: Brugerforløb, mobil, protanopi, kontrast og evaluering.
+
+BRUG I CODEX
+
+Hver mappe er en skill med en SKILL.md og eventuelle referencer eller scripts.
+Skillmapperne er også lagt i den lokale Codex-skillsmappe ved leveringen.
+Hvis de ikke vises i den aktuelle chat, så åbn en ny chat; genstart appen, hvis nødvendigt.
+På en anden computer kan de fem mapper kopieres til ~/.codex/skills/.
+
+Eksempel på en startbesked:
+
+Brug $se-rodt-double-diamond, $se-rodt-design, $se-rodt-frontend,
+$se-rodt-seo-geo og $se-rodt-kvalitet til vores SE RØDT-hjemmeside.
+Vi arbejder i [Discover/Define/Develop/Deliver]. Her er vores projekt og hidtidige research.
+Følg vores Figma-design; brug eventkonceptet og moodboardet som baggrund. Bevar vores teknologistak,
+og skriv tydeligt, hvad der er en antagelse eller fortsat mangler at blive undersøgt.
+
+BRUG I EN ANDEN AI
+
+En anden AI understøtter måske ikke Codex-skills automatisk. Giv den de relevante
+SKILL.md-filer og de referencefiler, de henviser til. Ved design skal moodboard.png
+også følge med. Pakken kræver ikke særlige cloudværktøjer eller abonnementer.
+
+AFGRÆNSNING
+
+Eventkonceptet mangler blandt andet eventår, konkret adresse, enkelte billetvilkår
+og gennemført brugerresearch. Skillsene hjælper AI'en med at håndtere dette
+uden at opfinde data. Der er ikke vedlagt lærerens fulde opgavebeskrivelse.
+Gruppekontraktens personoplysninger er ikke kopieret ind i pakken.

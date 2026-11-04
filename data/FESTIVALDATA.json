@@ -1,0 +1,56 @@
+[
+  {
+    "id": "dont-look-now",
+    "title": "Don't Look Now",
+    "day": "fredag",
+    "time": "19:00",
+    "year": "1973",
+    "scare": 3,
+    "description": "En rød frakke, Venedig og en uro, der langsomt kryber ind under huden."
+  },
+  {
+    "id": "shining",
+    "title": "The Shining",
+    "day": "fredag",
+    "time": "21:45",
+    "year": "1980",
+    "scare": 4,
+    "description": "Et øde hotel og en ikonisk gyser, hvor en hyggelig weekend hurtigt bliver noget andet."
+  },
+  {
+    "id": "nattevagten",
+    "title": "Nattevagten",
+    "day": "fredag",
+    "time": "00:15",
+    "year": "1994",
+    "scare": 4,
+    "description": "Slut fredagens aften med dansk nattegys i lille sal. Visningen ligger efter midnat."
+  },
+  {
+    "id": "carrie",
+    "title": "Carrie",
+    "day": "lordag",
+    "time": "18:00",
+    "year": "1976",
+    "scare": 4,
+    "description": "En skolefest og en Stephen King-klassiker, der ender langt fra det forventede."
+  },
+  {
+    "id": "suspiria",
+    "title": "Suspiria",
+    "day": "lordag",
+    "time": "21:00",
+    "year": "1977",
+    "scare": 5,
+    "description": "Farver, dans og et intenst mareridt fra Dario Argentos gyserunivers."
+  },
+  {
+    "id": "publikumsvalg",
+    "title": "Crimson Peak eller Midsommar",
+    "day": "lordag",
+    "time": "23:00",
+    "year": "2015 / 2019",
+    "scare": null,
+    "description": "Publikum vælger én af de to film. Det endelige valg er ikke fastlagt."
+  }
+]

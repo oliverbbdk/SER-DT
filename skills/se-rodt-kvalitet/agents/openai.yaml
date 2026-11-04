@@ -1,0 +1,4 @@
+interface:
+  display_name: "SE RØDT · Kvalitet og test"
+  short_description: "Test mobil, brugerforløb, kontrast og tilgængelighed"
+  default_prompt: "Brug $se-rodt-kvalitet til at kontrollere hjemmesiden og dokumentere faktiske testresultater."

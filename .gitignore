@@ -1,0 +1,17 @@
+# Local IDE state and caches
+.idea/
+.vscode/
+.build/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+*.bundle
+*.zip
+.env
+.env.*
+!.env.example

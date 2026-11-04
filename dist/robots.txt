@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://se-rodt-filmfestival-olive.oliverbbdk.chatgpt.site/sitemap.xml

@@ -1,0 +1,110 @@
+[
+  {
+    "key": "dont-look-now",
+    "film": "Don't Look Now",
+    "video_id": "xXP8OaJGxrM",
+    "url": "https://www.youtube.com/watch?v=xXP8OaJGxrM",
+    "checked": "2026-11-04",
+    "video_title": "DON'T LOOK NOW - Official Trailer - Starring Donald Sutherland and Julie Christie",
+    "publisher": "StudiocanalUK",
+    "publisher_url": "https://www.youtube.com/@studiocanaluk",
+    "oembed_verified": true,
+    "thumbnail_url": "https://i.ytimg.com/vi/xXP8OaJGxrM/hqdefault.jpg"
+  },
+  {
+    "key": "shining",
+    "film": "The Shining",
+    "video_id": "FZQvIJxG9Xs",
+    "url": "https://www.youtube.com/watch?v=FZQvIJxG9Xs",
+    "checked": "2026-11-04",
+    "video_title": "The Shining | 4K Trailer | Warner Bros. Entertainment",
+    "publisher": "Warner Bros. Entertainment",
+    "publisher_url": "https://www.youtube.com/@warnerbrosentertainment",
+    "oembed_verified": true,
+    "thumbnail_url": "https://i.ytimg.com/vi/FZQvIJxG9Xs/hqdefault.jpg"
+  },
+  {
+    "key": "carrie",
+    "film": "Carrie",
+    "video_id": "j9Mg-GRS46Y",
+    "url": "https://www.youtube.com/watch?v=j9Mg-GRS46Y",
+    "checked": "2026-11-04",
+    "video_title": "CARRIE (1976) | Official Trailer | MGM Studios",
+    "publisher": "Amazon MGM Studios",
+    "publisher_url": "https://www.youtube.com/@AmazonMGMStudios",
+    "oembed_verified": true,
+    "thumbnail_url": "https://i.ytimg.com/vi/j9Mg-GRS46Y/hqdefault.jpg"
+  },
+  {
+    "key": "suspiria",
+    "film": "Suspiria",
+    "video_id": "x_FfT98QJks",
+    "url": "https://www.youtube.com/watch?v=x_FfT98QJks",
+    "checked": "2026-11-04",
+    "video_title": "Suspiria - 4K Restoration Trailer",
+    "publisher": "Umbrella Entertainment",
+    "publisher_url": "https://www.youtube.com/@UmbrellaEntertainment",
+    "oembed_verified": true,
+    "thumbnail_url": "https://i.ytimg.com/vi/x_FfT98QJks/hqdefault.jpg"
+  },
+  {
+    "key": "crimson-peak",
+    "film": "Crimson Peak",
+    "video_id": "vLWsNDZqXpo",
+    "url": "https://www.youtube.com/watch?v=vLWsNDZqXpo",
+    "checked": "2026-11-04",
+    "video_title": "Crimson Peak - Official International Trailer (Universal Pictures) HD",
+    "publisher": "Universal Pictures UK",
+    "publisher_url": "https://www.youtube.com/@universalpicturesuk",
+    "oembed_verified": true,
+    "thumbnail_url": "https://i.ytimg.com/vi/vLWsNDZqXpo/hqdefault.jpg"
+  },
+  {
+    "key": "midsommar",
+    "film": "Midsommar",
+    "video_id": "1Vnghdsjmd0",
+    "url": "https://www.youtube.com/watch?v=1Vnghdsjmd0",
+    "checked": "2026-11-04",
+    "video_title": "MIDSOMMAR | Official Trailer HD | A24",
+    "publisher": "A24",
+    "publisher_url": "https://www.youtube.com/@A24",
+    "oembed_verified": true,
+    "thumbnail_url": "https://i.ytimg.com/vi/1Vnghdsjmd0/hqdefault.jpg"
+  },
+  {
+    "key": "gaesterne",
+    "film": "Gæsterne",
+    "video_id": "UhWiiDhmBCM",
+    "url": "https://www.youtube.com/watch?v=UhWiiDhmBCM",
+    "checked": "2026-11-04",
+    "video_title": "Speak No Evil - Official Trailer [HD] | A Shudder Original",
+    "publisher": "Shudder",
+    "publisher_url": "https://www.youtube.com/@shudder",
+    "oembed_verified": true,
+    "thumbnail_url": "https://i.ytimg.com/vi/UhWiiDhmBCM/hqdefault.jpg"
+  },
+  {
+    "key": "it-follows",
+    "film": "It Follows",
+    "video_id": "9tyMi1Hn32I",
+    "url": "https://www.youtube.com/watch?v=9tyMi1Hn32I",
+    "checked": "2026-11-04",
+    "video_title": "IT FOLLOWS - Official Trailer",
+    "publisher": "RADiUS",
+    "publisher_url": "https://www.youtube.com/@RADiUSfilms",
+    "oembed_verified": true,
+    "thumbnail_url": "https://i.ytimg.com/vi/9tyMi1Hn32I/hqdefault.jpg"
+  },
+  {
+    "key": "the-witch",
+    "film": "The Witch",
+    "video_id": "iQXmlf3Sefg",
+    "url": "https://www.youtube.com/watch?v=iQXmlf3Sefg",
+    "checked": "2026-11-04",
+    "video_title": "The Witch | Official Trailer HD | A24",
+    "publisher": "A24",
+    "publisher_url": "https://www.youtube.com/@A24",
+    "oembed_verified": true,
+    "thumbnail_url": "https://i.ytimg.com/vi/iQXmlf3Sefg/hqdefault.jpg"
+  }
+]
