@@ -213,7 +213,7 @@ Tidligere udførte kontroller står i `docs/AFLEVERING.txt`: bl.a. programfiltre
 
 ## Git og samarbejde i gruppen
 
-Den lokale Git-historik starter med denne samlede gruppeaflevering. Første commit bruger den neutrale forfatter `SE RODT projektgruppe` med en ikke-leverbar eksempeladresse; der er ikke konfigureret en fælles identitet til jeres fremtidige commits. Hver person bruger sit eget navn og sin egen Git-identitet.
+GitHub-repositoryets `main` indeholder den samlede gruppeaflevering. Hver person bruger sit eget navn og sin egen Git-identitet til fremtidige commits. I den separat leverede ZIP og bundle er de tidligere lokale commits desuden bevaret på `arkiv/foer-github`; de brugte den neutrale forfatter `SE RODT projektgruppe` med en ikke-leverbar eksempeladresse.
 
 Den komplette ZIP indeholder projektets `.git/`-mappe. Derudover følger en separat `SER-DT.bundle` med Git-historikken. Hvis en platform eller ZIP-udpakker skjuler `.git/`, kan bundle-filen genskabe repositoryet:
 
